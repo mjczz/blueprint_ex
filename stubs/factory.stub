@@ -1,0 +1,11 @@
+<?php
+
+/** @var \Illuminate\Database\Eloquent\Factory $factory */
+
+// imports...
+
+$factory->define(DummyClass::class, function (Faker $faker) {
+    return [
+        // definition...
+    ];
+});
