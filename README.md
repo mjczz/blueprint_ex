@@ -1,3 +1,6 @@
+## Attesion
+This package is copied from laravel-shift/blueprint, and i make a littil modify, hahaha
+
 ## Requirements
 Blueprint requires a Laravel application running version 6.0 or higher.
 
@@ -18,6 +21,7 @@ php artisan blueprint:build [draft]
 ```
 
 The _draft_ file contains a [definition of the components](https://blueprint.laravelshift.com/docs/generating-components/) to generate.
+
 
 Let's review the following, example draft file to generate some _blog_ components:
 
